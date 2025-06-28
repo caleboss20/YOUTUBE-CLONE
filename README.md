@@ -8,7 +8,7 @@ This is a static frontend clone of the YouTube homepage built using **HTML** and
 - Top navigation bar with logo, search bar, and icons
 - Sidebar with menu links
 - Grid-style video thumbnails
-- Pure HTML and CSS — no JavaScript, no responsiveness
+- Pure HTML , CSS —  JavaScript, no responsiveness yet
 
 
 
